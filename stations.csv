@@ -1,0 +1,51 @@
+station_id,station_name,city,charger_type,total_ports,maintenance_score,opening_year
+1,EV Station 1,Chennai,Fast DC,4,88.92,2020
+2,EV Station 2,Mumbai,Ultra Fast,7,86.39,2023
+3,EV Station 3,Delhi,Supercharger,5,61.16,2020
+4,EV Station 4,Mumbai,Fast DC,10,87.92,2024
+5,EV Station 5,Pune,Supercharger,11,77.52,2021
+6,EV Station 6,Delhi,Ultra Fast,17,73.27,2020
+7,EV Station 7,Mumbai,AC,7,63.62,2019
+8,EV Station 8,Bangalore,AC,12,91.48,2024
+9,EV Station 9,Hyderabad,Fast DC,16,63.07,2021
+10,EV Station 10,Chennai,AC,10,87.48,2019
+11,EV Station 11,Chennai,Ultra Fast,13,98.42,2025
+12,EV Station 12,Mumbai,Fast DC,16,70.84,2024
+13,EV Station 13,Bangalore,Ultra Fast,15,73.86,2024
+14,EV Station 14,Bangalore,Fast DC,9,80.83,2020
+15,EV Station 15,Mumbai,Supercharger,16,70.53,2024
+16,EV Station 16,Chennai,Ultra Fast,14,92.87,2025
+17,EV Station 17,Delhi,Ultra Fast,5,91.4,2022
+18,EV Station 18,Bangalore,Fast DC,10,95.61,2023
+19,EV Station 19,Chennai,AC,10,85.56,2022
+20,EV Station 20,Chennai,Supercharger,8,70.33,2020
+21,EV Station 21,Chennai,AC,17,95.02,2022
+22,EV Station 22,Bangalore,Ultra Fast,8,79.87,2019
+23,EV Station 23,Delhi,Fast DC,8,84.47,2025
+24,EV Station 24,Chennai,Supercharger,6,75.01,2023
+25,EV Station 25,Hyderabad,AC,4,86.53,2019
+26,EV Station 26,Chennai,AC,14,64.35,2022
+27,EV Station 27,Mumbai,Supercharger,4,97.2,2024
+28,EV Station 28,Bangalore,Ultra Fast,20,95.59,2025
+29,EV Station 29,Chennai,AC,20,83.75,2020
+30,EV Station 30,Bangalore,Ultra Fast,20,95.82,2023
+31,EV Station 31,Bangalore,Supercharger,4,64.36,2021
+32,EV Station 32,Bangalore,Ultra Fast,5,69.39,2023
+33,EV Station 33,Delhi,Fast DC,19,91.82,2025
+34,EV Station 34,Pune,Ultra Fast,8,85.73,2023
+35,EV Station 35,Mumbai,AC,20,94.02,2022
+36,EV Station 36,Mumbai,Ultra Fast,13,75.56,2024
+37,EV Station 37,Chennai,AC,18,95.08,2022
+38,EV Station 38,Delhi,Ultra Fast,11,62.5,2019
+39,EV Station 39,Pune,Ultra Fast,11,60.28,2024
+40,EV Station 40,Chennai,Fast DC,11,62.63,2019
+41,EV Station 41,Bangalore,Fast DC,20,69.28,2024
+42,EV Station 42,Hyderabad,Ultra Fast,8,88.21,2023
+43,EV Station 43,Pune,Supercharger,11,90.6,2025
+44,EV Station 44,Hyderabad,Ultra Fast,7,63.78,2022
+45,EV Station 45,Bangalore,Supercharger,17,78.21,2024
+46,EV Station 46,Delhi,Fast DC,5,75.7,2021
+47,EV Station 47,Delhi,Ultra Fast,10,67.42,2022
+48,EV Station 48,Mumbai,Supercharger,9,70.86,2020
+49,EV Station 49,Delhi,Supercharger,7,61.97,2023
+50,EV Station 50,Delhi,Fast DC,11,66.49,2022
